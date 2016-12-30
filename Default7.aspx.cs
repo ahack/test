@@ -9,6 +9,6 @@ public partial class Default7 : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-
+        Response.Redirect("aaaa");
     }
 }
